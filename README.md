@@ -2,7 +2,7 @@
 ### Overview :
 ### The challenge
 * Build out the project to the design provided:
-   *  [Leon - Free Html Agency Website Template](#Leon-Free-Html-Agency-Website-Template)
+   *  [Leon-Free-Html-Agency-Website-Template](https://www.graphberry.com/item/leon-html-agency-template)
 
  
 ### Links
